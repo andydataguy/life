@@ -1,0 +1,11 @@
+[package]
+name = "life"
+version = "0.1.0"
+edition = "2021"
+authors = ["Anand Houston <anand@anandhouston.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.0" # https://crates.io/crates/rand
+termion = "1.5.6" # https://crates.io/crates/termion
